@@ -20,7 +20,7 @@ namespace Prima
                 }
             }
             if (j == 0)
-                Console.Write("Angka prima.");
+                Console.Write("Angka prima");
         }
     }
 }
